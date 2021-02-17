@@ -1,5 +1,6 @@
 body {
     margin:0;
+    width:100vw;
 }
 .content-box{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -11,7 +12,7 @@ body {
 }
 header {
     background-color:#D8D8D8;
-    width:100vh;
+    width:100vw;
     height:100px;
     padding:10px;
 }
@@ -23,21 +24,21 @@ header {
 }
 .blue-bar {
     background-color: #4A90E2;
-    width:100vh;
+    width:100vw;
     height:125px;
 }
 .cyan-bar {
     background-color:#50E3C2;
-    width:100vh;
+    width:100vw;
     height:125px;
 }
 .green-bar {
     background-color: #B8E986;
-    width:100vh;
+    width:100vw;
     height:125px;
 }
 .yellow-bar {
     background-color:#F8E71C;
-    width:100vh;
+    width:100vw;
     height:125px;
 }
